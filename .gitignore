@@ -61,6 +61,7 @@ googlemock/CTestTestfile.cmake
 googlemock/Makefile
 googlemock/cmake_install.cmake
 googlemock/gtest
+googletest/generated/
 /bin
 /googlemock/gmock.dir
 /googlemock/gmock_main.dir
